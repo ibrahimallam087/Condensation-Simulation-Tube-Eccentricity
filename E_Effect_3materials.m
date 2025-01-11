@@ -7,7 +7,7 @@ close all
 eccentricity = [0.2, 0.4, 0.6, 0.8];
 
 % Wall average heat flux values (example data, replace with your values)
-heat_flux_R32a = -[     -54930.1,     -64326.8,  -64812.6, -64812.6]/1000/50; %Kw/K
+heat_flux_R32a = -[     -63409.9,     -64326.8,  -64812.6, -64812.6]/1000/50; %Kw/K
 heat_flux_R134a =- [  -49402,   -50138.3, -50656.5 ,   -50677.6]/1000/50;%Kw/K
 heat_flux_R410a = -[    -57302.4,    -58375.3,   -58844.9 ,   -59011 ]/1000/50;%Kw/K
 
